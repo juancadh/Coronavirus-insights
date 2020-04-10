@@ -1,2 +1,2 @@
-# Coronavirus-insights
-Report of COVID-19 using Johns Hopkins dataset.
+# Coronavirus Insights
+Report of COVID-19 using Johns Hopkins datase (https://coronavirus.jhu.edu/)
